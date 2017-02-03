@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave.cap" format="1">
+  <advance width="364"/>
+  <unicode hex="F6CE"/>
+  <outline>
+    <contour>
+      <point x="280" y="714" type="curve"/>
+      <point x="271" y="694" type="line"/>
+      <point x="201" y="711"/>
+      <point x="145" y="726"/>
+      <point x="84" y="736" type="curve"/>
+      <point x="97" y="757"/>
+      <point x="109" y="789"/>
+      <point x="111" y="814" type="curve"/>
+      <point x="157" y="779"/>
+      <point x="220" y="740"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>694</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>794</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

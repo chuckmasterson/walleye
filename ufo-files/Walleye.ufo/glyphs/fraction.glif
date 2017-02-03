@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="1">
+  <advance width="103"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="290" y="653" type="curve"/>
+      <point x="312" y="637" type="line"/>
+      <point x="181" y="468"/>
+      <point x="-59" y="155"/>
+      <point x="-187" y="-17" type="curve"/>
+      <point x="-210" y="-1" type="line"/>
+      <point x="-79" y="169"/>
+      <point x="161" y="482"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-17</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>633</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

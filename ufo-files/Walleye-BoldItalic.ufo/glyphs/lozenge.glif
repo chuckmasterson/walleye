@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="601"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="300" y="655" type="curve"/>
+      <point x="320" y="656" type="line"/>
+      <point x="381" y="549"/>
+      <point x="480" y="397"/>
+      <point x="560" y="285" type="curve"/>
+      <point x="481" y="166"/>
+      <point x="371" y="-5"/>
+      <point x="315" y="-104" type="curve"/>
+      <point x="298" y="-105" type="line"/>
+      <point x="197" y="46"/>
+      <point x="113" y="167"/>
+      <point x="41" y="274" type="curve"/>
+      <point x="130" y="387"/>
+      <point x="205" y="499"/>
+    </contour>
+    <contour>
+      <point x="274" y="526" type="curve"/>
+      <point x="215" y="433"/>
+      <point x="203" y="414"/>
+      <point x="137" y="324" type="curve"/>
+      <point x="204" y="220"/>
+      <point x="246" y="155"/>
+      <point x="338" y="25" type="curve"/>
+      <point x="394" y="117"/>
+      <point x="417" y="154"/>
+      <point x="467" y="228" type="curve"/>
+      <point x="398" y="350"/>
+      <point x="349" y="421"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-105</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>636</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

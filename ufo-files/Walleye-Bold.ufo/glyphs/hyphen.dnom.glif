@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen.dnom" format="1">
+  <advance width="146"/>
+  <outline>
+    <contour>
+      <point x="5" y="157" type="curve"/>
+      <point x="9" y="169"/>
+      <point x="11" y="192"/>
+      <point x="11" y="200" type="curve"/>
+      <point x="36" y="198"/>
+      <point x="55" y="198"/>
+      <point x="73" y="198" type="curve" smooth="yes"/>
+      <point x="91" y="198"/>
+      <point x="109" y="198"/>
+      <point x="135" y="200" type="curve"/>
+      <point x="131" y="190"/>
+      <point x="128" y="165"/>
+      <point x="128" y="157" type="curve"/>
+      <point x="105" y="159"/>
+      <point x="88" y="160"/>
+      <point x="71" y="160" type="curve" smooth="yes"/>
+      <point x="52" y="160"/>
+      <point x="32" y="159"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>157</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>160</integer>
+	    <key>width</key>	    <integer>38</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>180</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

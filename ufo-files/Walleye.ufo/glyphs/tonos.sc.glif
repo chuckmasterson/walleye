@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos.sc" format="1">
+  <advance width="364"/>
+  <outline>
+    <contour>
+      <point x="132" y="515" type="curve"/>
+      <point x="110" y="527" type="line"/>
+      <point x="142" y="584"/>
+      <point x="167" y="651"/>
+      <point x="183" y="705" type="curve"/>
+      <point x="199" y="692"/>
+      <point x="231" y="673"/>
+      <point x="253" y="665" type="curve"/>
+      <point x="213" y="622"/>
+      <point x="172" y="574"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>515</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>685</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

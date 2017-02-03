@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright.caps" format="1">
+  <advance width="398"/>
+  <outline>
+    <contour>
+      <point x="360" y="320" type="curve"/>
+      <point x="356" y="299" type="line"/>
+      <point x="308" y="256"/>
+      <point x="262" y="205"/>
+      <point x="214" y="134" type="curve"/>
+      <point x="194" y="151" type="line"/>
+      <point x="227" y="205"/>
+      <point x="261" y="261"/>
+      <point x="289" y="310" type="curve"/>
+      <point x="252" y="371"/>
+      <point x="229" y="413"/>
+      <point x="197" y="484" type="curve"/>
+      <point x="216" y="499" type="line"/>
+      <point x="256" y="426"/>
+      <point x="314" y="358"/>
+    </contour>
+    <contour>
+      <point x="209" y="320" type="curve"/>
+      <point x="205" y="299" type="line"/>
+      <point x="157" y="256"/>
+      <point x="111" y="205"/>
+      <point x="63" y="134" type="curve"/>
+      <point x="43" y="151" type="line"/>
+      <point x="76" y="205"/>
+      <point x="110" y="261"/>
+      <point x="138" y="310" type="curve"/>
+      <point x="101" y="371"/>
+      <point x="78" y="413"/>
+      <point x="46" y="484" type="curve"/>
+      <point x="65" y="499" type="line"/>
+      <point x="105" y="426"/>
+      <point x="163" y="358"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>134</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>479</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

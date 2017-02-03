@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="1">
+  <advance width="334"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="36" y="672" type="curve"/>
+      <point x="70" y="681" type="line"/>
+      <point x="131" y="475"/>
+      <point x="234" y="145"/>
+      <point x="298" y="-60" type="curve"/>
+      <point x="264" y="-69" type="line"/>
+      <point x="203" y="136"/>
+      <point x="100" y="468"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-69</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>661</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

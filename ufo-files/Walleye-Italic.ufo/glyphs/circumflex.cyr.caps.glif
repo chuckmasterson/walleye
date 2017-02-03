@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.cyr.caps" format="1">
+  <advance width="364"/>
+  <outline>
+    <contour>
+      <point x="152" y="768" type="curve" smooth="yes"/>
+      <point x="167" y="776"/>
+      <point x="182" y="780"/>
+      <point x="198" y="780" type="curve" smooth="yes"/>
+      <point x="216" y="780"/>
+      <point x="234" y="774"/>
+      <point x="251" y="762" type="curve" smooth="yes"/>
+      <point x="279" y="742"/>
+      <point x="298" y="718"/>
+      <point x="312" y="702" type="curve"/>
+      <point x="294" y="696"/>
+      <point x="267" y="686"/>
+      <point x="246" y="672" type="curve"/>
+      <point x="239" y="682"/>
+      <point x="237" y="686"/>
+      <point x="225" y="698" type="curve" smooth="yes"/>
+      <point x="208" y="715"/>
+      <point x="190" y="726"/>
+      <point x="167" y="726" type="curve" smooth="yes"/>
+      <point x="154" y="726"/>
+      <point x="138" y="722"/>
+      <point x="122" y="713" type="curve" smooth="yes"/>
+      <point x="103" y="703"/>
+      <point x="83" y="692"/>
+      <point x="65" y="677" type="curve"/>
+      <point x="53" y="696" type="line"/>
+      <point x="83" y="722"/>
+      <point x="116" y="749"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>672</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>726</integer>
+	    <key>width</key>	    <integer>54</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

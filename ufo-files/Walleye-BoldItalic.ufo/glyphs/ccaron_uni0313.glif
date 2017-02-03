@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccaron_uni0313" format="1">
+  <advance width="376"/>
+  <outline>
+    <contour>
+      <point x="263" y="596" type="curve"/>
+      <point x="240" y="628" type="line"/>
+      <point x="257" y="638"/>
+      <point x="266" y="646"/>
+      <point x="277" y="657" type="curve" smooth="yes"/>
+      <point x="285" y="666"/>
+      <point x="296" y="685"/>
+      <point x="286" y="703" type="curve" smooth="yes"/>
+      <point x="280" y="714"/>
+      <point x="268" y="729"/>
+      <point x="252" y="740" type="curve"/>
+      <point x="281" y="769"/>
+      <point x="296" y="787"/>
+      <point x="315" y="819" type="curve"/>
+      <point x="330" y="805"/>
+      <point x="350" y="790"/>
+      <point x="362" y="770" type="curve"/>
+      <point x="373" y="754"/>
+      <point x="378" y="737"/>
+      <point x="378" y="721" type="curve" smooth="yes"/>
+      <point x="378" y="695"/>
+      <point x="364" y="671"/>
+      <point x="338" y="649" type="curve" smooth="yes"/>
+      <point x="310" y="626"/>
+      <point x="295" y="614"/>
+    </contour>
+    <contour>
+      <point x="21" y="112" type="curve"/>
+      <point x="24" y="167"/>
+      <point x="38" y="241"/>
+      <point x="69" y="306" type="curve" smooth="yes"/>
+      <point x="88" y="347"/>
+      <point x="132" y="374"/>
+      <point x="162" y="390" type="curve" smooth="yes"/>
+      <point x="201" y="411"/>
+      <point x="227" y="426"/>
+      <point x="268" y="426" type="curve" smooth="yes"/>
+      <point x="277" y="426"/>
+      <point x="287" y="426"/>
+      <point x="297" y="424" type="curve" smooth="yes"/>
+      <point x="319" y="420"/>
+      <point x="349" y="413"/>
+      <point x="367" y="408" type="curve"/>
+      <point x="338" y="372"/>
+      <point x="317" y="339"/>
+      <point x="300" y="295" type="curve"/>
+      <point x="283" y="312"/>
+      <point x="252" y="335"/>
+      <point x="232" y="345" type="curve"/>
+      <point x="195" y="366"/>
+      <point x="184" y="346"/>
+      <point x="170" y="309" type="curve" smooth="yes"/>
+      <point x="149" y="251"/>
+      <point x="135" y="176"/>
+      <point x="137" y="138" type="curve" smooth="yes"/>
+      <point x="139" y="98"/>
+      <point x="152" y="66"/>
+      <point x="205" y="66" type="curve" smooth="yes"/>
+      <point x="245" y="66"/>
+      <point x="267" y="69"/>
+      <point x="299" y="75" type="curve"/>
+      <point x="304" y="37" type="line"/>
+      <point x="268" y="23"/>
+      <point x="224" y="7"/>
+      <point x="181" y="-6" type="curve" smooth="yes"/>
+      <point x="162" y="-12"/>
+      <point x="143" y="-16"/>
+      <point x="125" y="-16" type="curve" smooth="yes"/>
+      <point x="101" y="-16"/>
+      <point x="77" y="-8"/>
+      <point x="55" y="14" type="curve" smooth="yes"/>
+      <point x="25" y="44"/>
+      <point x="18" y="77"/>
+    </contour>
+    <contour>
+      <point x="250" y="448" type="curve"/>
+      <point x="218" y="496"/>
+      <point x="195" y="523"/>
+      <point x="148" y="563" type="curve"/>
+      <point x="169" y="592" type="line"/>
+      <point x="273" y="551" type="line"/>
+      <point x="393" y="593" type="line"/>
+      <point x="412" y="566" type="line"/>
+      <point x="349" y="529"/>
+      <point x="300" y="494"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-16</integer>
+	    <key>width</key>	    <integer>82</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>406</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>799</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>21</integer>
+	    <key>width</key>
+	    <integer>116</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

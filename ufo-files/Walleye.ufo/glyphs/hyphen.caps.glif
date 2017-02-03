@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen.caps" format="1">
+  <advance width="274"/>
+  <outline>
+    <contour>
+      <point x="27" y="293" type="curve"/>
+      <point x="32" y="309"/>
+      <point x="36" y="332"/>
+      <point x="36" y="343" type="curve"/>
+      <point x="71" y="341"/>
+      <point x="106" y="340"/>
+      <point x="141" y="340" type="curve" smooth="yes"/>
+      <point x="176" y="340"/>
+      <point x="211" y="341"/>
+      <point x="246" y="343" type="curve"/>
+      <point x="242" y="329"/>
+      <point x="238" y="304"/>
+      <point x="238" y="293" type="curve"/>
+      <point x="205" y="295"/>
+      <point x="171" y="296"/>
+      <point x="138" y="296" type="curve" smooth="yes"/>
+      <point x="101" y="296"/>
+      <point x="64" y="295"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>293</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>296</integer>
+	    <key>width</key>	    <integer>44</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>323</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.osf" format="1">
+  <advance width="435"/>
+  <outline>
+    <contour>
+      <point x="183" y="108" type="curve" smooth="yes"/>
+      <point x="242" y="220"/>
+      <point x="285" y="300"/>
+      <point x="342" y="394" type="curve"/>
+      <point x="303" y="390"/>
+      <point x="265" y="389"/>
+      <point x="228" y="389" type="curve" smooth="yes"/>
+      <point x="198" y="389"/>
+      <point x="169" y="390"/>
+      <point x="141" y="391" type="curve" smooth="yes"/>
+      <point x="97" y="393"/>
+      <point x="83" y="397"/>
+      <point x="35" y="310" type="curve"/>
+      <point x="7" y="323" type="line"/>
+      <point x="37" y="384"/>
+      <point x="47" y="417"/>
+      <point x="56" y="478" type="curve"/>
+      <point x="109" y="468"/>
+      <point x="176" y="464"/>
+      <point x="241" y="464" type="curve" smooth="yes"/>
+      <point x="308" y="464"/>
+      <point x="372" y="468"/>
+      <point x="416" y="475" type="curve"/>
+      <point x="425" y="460" type="line"/>
+      <point x="349" y="351"/>
+      <point x="300" y="278"/>
+      <point x="228" y="111" type="curve" smooth="yes"/>
+      <point x="200" y="47"/>
+      <point x="181" y="-30"/>
+      <point x="176" y="-151" type="curve"/>
+      <point x="142" y="-158"/>
+      <point x="113" y="-173"/>
+      <point x="79" y="-199" type="curve"/>
+      <point x="95" y="-67"/>
+      <point x="117" y="-19"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-199</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>391</integer>
+	    <key>width</key>	    <integer>73</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>458</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

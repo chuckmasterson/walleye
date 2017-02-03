@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesinglbase" format="1">
+  <advance width="218"/>
+  <unicode hex="201A"/>
+  <outline>
+    <contour>
+      <point x="-12" y="-180" type="curve"/>
+      <point x="-42" y="-144" type="line"/>
+      <point x="-13" y="-123"/>
+      <point x="25" y="-98"/>
+      <point x="40" y="-78" type="curve" smooth="yes"/>
+      <point x="48" y="-66"/>
+      <point x="54" y="-54"/>
+      <point x="54" y="-40" type="curve" smooth="yes"/>
+      <point x="54" y="-31"/>
+      <point x="51" y="-21"/>
+      <point x="44" y="-10" type="curve" smooth="yes"/>
+      <point x="33" y="6"/>
+      <point x="17" y="21"/>
+      <point x="-3" y="35" type="curve"/>
+      <point x="35" y="74"/>
+      <point x="61" y="108"/>
+      <point x="83" y="143" type="curve"/>
+      <point x="104" y="126"/>
+      <point x="123" y="106"/>
+      <point x="138" y="82" type="curve" smooth="yes"/>
+      <point x="150" y="63"/>
+      <point x="155" y="44"/>
+      <point x="155" y="24" type="curve" smooth="yes"/>
+      <point x="155" y="-17"/>
+      <point x="133" y="-59"/>
+      <point x="102" y="-90" type="curve" smooth="yes"/>
+      <point x="74" y="-118"/>
+      <point x="30" y="-151"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-180</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>123</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar.c2sc" format="1">
+  <advance width="233"/>
+  <outline>
+    <contour>
+      <point x="93" y="617" type="curve"/>
+      <point x="142" y="617" type="line"/>
+      <point x="140" y="453"/>
+      <point x="138" y="219"/>
+      <point x="138" y="23" type="curve" smooth="yes"/>
+      <point x="138" y="-36"/>
+      <point x="139" y="-92"/>
+      <point x="139" y="-142" type="curve"/>
+      <point x="91" y="-142" type="line"/>
+      <point x="93" y="-3"/>
+      <point x="94" y="183"/>
+      <point x="94" y="356" type="curve" smooth="yes"/>
+      <point x="94" y="451"/>
+      <point x="94" y="541"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-142</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>597</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>94</integer>
+	    <key>width</key>
+	    <integer>44</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

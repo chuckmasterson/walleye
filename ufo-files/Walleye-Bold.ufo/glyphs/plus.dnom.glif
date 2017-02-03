@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus.dnom" format="1">
+  <advance width="293"/>
+  <outline>
+    <contour>
+      <point x="25" y="137" type="line"/>
+      <point x="25" y="167" type="line"/>
+      <point x="131" y="167" type="line"/>
+      <point x="131" y="273" type="line"/>
+      <point x="161" y="273" type="line"/>
+      <point x="161" y="167" type="line"/>
+      <point x="267" y="167" type="line"/>
+      <point x="267" y="137" type="line"/>
+      <point x="161" y="137" type="line"/>
+      <point x="161" y="31" type="line"/>
+      <point x="131" y="31" type="line"/>
+      <point x="131" y="137" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>31</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>137</integer>
+	    <key>width</key>	    <integer>30</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>253</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>131</integer>
+	    <key>width</key>
+	    <integer>30</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

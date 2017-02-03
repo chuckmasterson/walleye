@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut.sc" format="1">
+  <advance width="364"/>
+  <unicode hex="F6F8"/>
+  <outline>
+    <contour>
+      <point x="237" y="695" type="curve"/>
+      <point x="259" y="683"/>
+      <point x="277" y="678"/>
+      <point x="310" y="673" type="curve"/>
+      <point x="264" y="615"/>
+      <point x="239" y="572"/>
+      <point x="204" y="506" type="curve"/>
+      <point x="182" y="514" type="line"/>
+      <point x="206" y="574"/>
+      <point x="225" y="639"/>
+    </contour>
+    <contour>
+      <point x="110" y="697" type="curve"/>
+      <point x="132" y="685"/>
+      <point x="151" y="681"/>
+      <point x="184" y="676" type="curve"/>
+      <point x="138" y="618"/>
+      <point x="112" y="572"/>
+      <point x="77" y="506" type="curve"/>
+      <point x="55" y="514" type="line"/>
+      <point x="79" y="574"/>
+      <point x="98" y="641"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>506</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>677</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
