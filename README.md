@@ -1,6 +1,20 @@
-# Walleye
+# [Walleye](http://looseleaf.chuckmasterson.com/walleye)
 
-Made by Looseleaf Fonts. This is now open source, but I haven't done any research on what license I want to use, so that's not here.
+![Walleye](http://looseleaf.chuckmasterson.com/images/WalleyeSingingfish.png)
+
+Walleye is an original serif font suitable for setting longer texts. Its long,
+banner-shaped finials and its airy letterforms give it character and an open
+texture on the page. Walleye has four styles: regular, italic, bold, and bold
+italic.
+
+Walleye is a **multilingual** font. It includes the Latin, (Polytonic) Greek,
+and Cyrillic alphabets, and has meticulous coverage of the character sets of a
+broad variety of languages, including almost all spoken in Europe. It also has
+many OpenType features, including small caps for all supported languages,
+old-style figures, and highly developed typesetting options for Ancient Greek.
+
+For more information, see the font's [page at the Looseleaf Fonts
+site](http://looseleaf.chuckmasterson.com/walleye).
 
 ## Installing
 
